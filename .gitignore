@@ -1,2 +1,2 @@
 .env
-ticker_csv
+*.csv
