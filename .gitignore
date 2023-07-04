@@ -1,1 +1,6 @@
 .env
+fixture_csv/*
+goal_csv/*
+ticker_csv/*
+trade_csv/*
+
