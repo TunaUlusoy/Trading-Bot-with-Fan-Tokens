@@ -15,10 +15,10 @@ from utilities.merge_ticker_csv_files import merge_ticker_csv_files
 ############################# changables #############################
 team_name = "FC Porto" # "Lazio", "FC Porto", "Santos", "Galatasaray" 
 
-fixture_flag = False
-goal_flag = False
-ticker_flag = False
-merge_tickers_flag = False
+fixture_flag = True
+goal_flag = True
+ticker_flag = True
+merge_tickers_flag = True
 manipulation_flag = True
 
 time_list = []
